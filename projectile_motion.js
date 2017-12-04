@@ -1232,7 +1232,6 @@ Anglesetter.prototype.moveLever = function() {
         // a = adjacent: xFromOrigin
         this.angle = round(atan2(yFromASOrigin,
                                  xFromASOrigin));
-        popMatrix();
 
         /*in the cases where the mouse is moved outside the
         range of angles (0 to 90 degrees), set the angle to
