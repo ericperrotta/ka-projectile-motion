@@ -16,4 +16,4 @@ will be shot from the cannon when you click on the "FIRE" button.  You can set t
 
 __IMPORTANT NOTE__: When making your calculations, you can assume that air friction will have no effect on Mr. Spice's motion.
 
-_If you need some refreshers on projectile motion here are some Khan Academy lessons on the Physics and equations behind [one dimensional](https://www.khanacademy.org/science/physics/one-dimensional-motion) and [two dimensional](https://www.khanacademy.org/science/physics/two-dimensional-motion) motion. Also, here you can find the very useful [range equation of projectile motion](http://www.flippingphysics.com/range-equation.html)._
+_If you need some refreshers on projectile motion here are some Khan Academy lessons on the Physics and equations behind [one dimensional](https://www.khanacademy.org/science/physics/one-dimensional-motion) and [two dimensional](https://www.khanacademy.org/science/physics/two-dimensional-motion) motion. Also, here you can find out more about the very useful [range equation of projectile motion](http://www.flippingphysics.com/range-equation.html)._
