@@ -298,10 +298,6 @@ MonsterCannonBall.prototype.calcCurrentVelByTimeY = function(time) {
     return calcFinalVel(this.initialVelocity.y, accel, time);
 };
 
-var calcChangeInTime = function(initVel, finalVel, accel) {
-    return (finalVel - initVel) / accel;
-};
-
 MonsterCannonBall.prototype.calcTotalTime = function() {
     var initVel = this.initialVelocity.y;
 
